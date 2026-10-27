@@ -19,7 +19,7 @@
 
 Sou Rafael, desenvolvedor autodidata do Rio de Janeiro e estudante de Análise e Desenvolvimento de Sistemas. Minha evolução acontece na prática: abro o editor, construo, quebro, depuro e aprendo com cada erro. Sou apaixonado por interfaces web modernas, limpas e rápidas, que fazem diferença para quem as usa.
 
-Estou na transição de estudante para criador de soluções digitais reais. Cada projeto que publico nasce de uma ideia concreta e é uma chance de transformar uma necessidade em algo que funciona.
+Estou na transição de estudante para criador de soluções digitais reais. Cada projeto que publico nasce de uma ideia concreta e é uma chance de transformar uma necessidade em algo que funciona, inclusive para a minha própria comunidade.
 
 <hr>
 
@@ -56,31 +56,31 @@ Estou na transição de estudante para criador de soluções digitais reais. Cad
   <tr>
     <td width="50%" valign="top">
 
-**Destiny Bot**
+**Destiny** · App Android
 
-Projeto de bot desenvolvido por mim.
+Downloader de vídeos e músicas para Android, baseado no [Seal Plus](https://github.com/MaheshTechnicals/Sealplus) e personalizado por mim. Baixa de mais de 1000 sites, extrai áudio em vários formatos e suporta playlists.
 
-[**Repo**](https://github.com/CamposEB?tab=repositories)
+[**Repo**](https://github.com/CamposEB/app-downloader) · [**Download**](https://github.com/CamposEB/app-downloader/releases)
 
 </td>
     <td width="50%" valign="top">
 
-**Dominique**
+**Destiny Bot** · WhatsApp
 
-Projeto pessoal em desenvolvimento.
+Bot para WhatsApp com diversas funcionalidades, criado para a minha comunidade.
 
-[**Repo**](https://github.com/CamposEB?tab=repositories)
+[**Repo**](https://github.com/CamposEB/Destiny-bot)
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-**Lobby**
+**Society** · Em reformulação 🚧
 
-Projeto pessoal em desenvolvimento.
+Novo site da minha comunidade (antigo Lobby), refeito do zero: simples, sem banco de dados, com informações úteis e uma calculadora de win rate.
 
-[**Repo**](https://github.com/CamposEB?tab=repositories)
+[**Repo**](https://github.com/CamposEB/lobby)
 
 </td>
     <td width="50%" valign="top">
@@ -94,7 +94,7 @@ Presente de aniversário digital, feito com carinho.
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="100%" valign="top" colspan="2">
 
 **Portfolio**
 
@@ -105,6 +105,8 @@ Meu portfólio pessoal, reunindo projetos e trajetória.
 </td>
   </tr>
 </table>
+
+<sub>O Destiny é um fork do Seal Plus, que por sua vez deriva do [Seal](https://github.com/JunkFood02/Seal) (JunkFood02). Licença GPL-3.0, com os créditos mantidos no repositório.</sub>
 
 <hr>
 
@@ -121,9 +123,12 @@ $ rafael@dev:~$ education
 > Análise e Desenvolvimento de Sistemas (ADS) — em andamento
 
 $ rafael@dev:~$ current_focus
-> React • TypeScript • UI/UX • Resolução de Problemas
+> Society (site da comunidade) • React • TypeScript • UI/UX
 
 $ rafael@dev:~$ next_goals
+> [x] Lançar o app Destiny
+> [x] Criar o Destiny Bot para WhatsApp
+> [ ] Reformular o site da comunidade (Society)
 > [ ] Aprofundar em React/TSX
 > [ ] Construir projetos full stack
 > [ ] Contribuir para projetos open source
