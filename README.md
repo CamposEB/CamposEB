@@ -71,7 +71,7 @@ Hoje atendo pela **Campos Web**: sites, landing pages, catálogos, apps Android 
 
 ## `04` Terminal
 
-```bash
+```text
 rafael@dev:~$ whoami
 Rafael Campos. Desenvolvedor web, focado em construir coisas úteis.
 
@@ -106,8 +106,9 @@ rafael@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CamposEB&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=00f0ff&border_color=161b22" alt="Estatísticas do GitHub de CamposEB" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposEB&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=161b22" alt="Linguagens mais usadas por CamposEB" height="160" />
+<img src="https://img.shields.io/github/followers/CamposEB?label=seguidores&style=for-the-badge&labelColor=161b22&color=58a6ff&logo=github&logoColor=white" alt="Seguidores no GitHub" />
+<img src="https://img.shields.io/github/stars/CamposEB/app-downloader?label=estrelas%20no%20Destiny&style=for-the-badge&labelColor=161b22&color=00f0ff&logo=github&logoColor=white" alt="Estrelas do repositório do Destiny" />
+<img src="https://img.shields.io/github/last-commit/CamposEB/app-downloader?label=%C3%BAltimo%20commit%20no%20Destiny&style=for-the-badge&labelColor=161b22&color=58a6ff" alt="Data do último commit no repositório do Destiny" />
 
 </div>
 
